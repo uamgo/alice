@@ -1,3 +1,3 @@
-module github.com/justinas/alice
+module github.com/uamgo/alice
 
 go 1.12
